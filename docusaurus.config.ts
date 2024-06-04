@@ -7,7 +7,7 @@ const config: Config = {
   tagline: '',
   favicon: 'img/favicon.ico',
 
-  url: 'https://paladium-developpement.github.io',
+  url: 'https://nationsglorybedrok/wiki.github.io',
   baseUrl: '/ng-be-wiki-2/',
 
   organizationName: 'Paladium',
@@ -28,7 +28,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/Paladium-Developpement/PaladiumBedrock.Wiki/tree/main/',
+            'https://github.com/Dadadou972/ng-be-wiki-2/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
